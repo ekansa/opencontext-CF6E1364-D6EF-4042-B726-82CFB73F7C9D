@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="E261CD36-08A6-48EB-92D5-E02B2C12B591" ownedBy="CF6E1364-D6EF-4042-B726-82CFB73F7C9D">
+  <arch:name>
+    <arch:string>Square 88</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Square</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_40x40.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_2_603df08b3</oc:source>
+      </oc:obs_metadata>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">This project mainly documents the finds documented from this site. Please refer to other reports and publications for additional information about excavation contexts.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/6AAC2E1D-CE65-4C47-3EC6-F132315E42D3">
+        <oc:name>Alaska</oc:name>
+        <oc:id>6AAC2E1D-CE65-4C47-3EC6-F132315E42D3</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/C76F3BC8-4748-4CF6-AA58-E99014B443A3">
+        <oc:name>Mikt’sqaq Angayuk</oc:name>
+        <oc:id>C76F3BC8-4748-4CF6-AA58-E99014B443A3</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/DF498358-6D13-42B1-54AF-F7DC4FE5849B">
+        <oc:name>AM662:1174</oc:name>
+        <oc:id>DF498358-6D13-42B1-54AF-F7DC4FE5849B</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Lithic</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1B2A2F87-5888-45C2-33C1-A820C1DE8551">
+        <oc:name>AM662:1543</oc:name>
+        <oc:id>1B2A2F87-5888-45C2-33C1-A820C1DE8551</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Metal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FE4DC220-FFB6-4CD4-FF28-9510B7237A81">
+        <oc:name>AM662:1544</oc:name>
+        <oc:id>FE4DC220-FFB6-4CD4-FF28-9510B7237A81</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Metal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1B2B34FD-3615-4553-6765-9E03EB0461D0">
+        <oc:name>AM662:1545</oc:name>
+        <oc:id>1B2B34FD-3615-4553-6765-9E03EB0461D0</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Metal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7A881339-AD1E-4624-82DB-62E6523D9E52">
+        <oc:name>AM662:1546</oc:name>
+        <oc:id>7A881339-AD1E-4624-82DB-62E6523D9E52</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Metal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E0D3B977-6BF0-4ECF-357E-79E8B0A6A4D1">
+        <oc:name>AM662:1547</oc:name>
+        <oc:id>E0D3B977-6BF0-4ECF-357E-79E8B0A6A4D1</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Metal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/49CF428B-9671-4CC4-AF5B-1C64EF5B910E">
+        <oc:name>AM662:1548</oc:name>
+        <oc:id>49CF428B-9671-4CC4-AF5B-1C64EF5B910E</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Metal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/948CC393-7FCE-4900-5515-9136ECC045FF">
+        <oc:name>AM662:1633</oc:name>
+        <oc:id>948CC393-7FCE-4900-5515-9136ECC045FF</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E3784FAD-C65B-4D00-3D7F-170D56DEFFF5">
+        <oc:name>AM662:1634</oc:name>
+        <oc:id>E3784FAD-C65B-4D00-3D7F-170D56DEFFF5</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3E833F3D-9151-450C-D658-43281F405098">
+        <oc:name>AM662:1635</oc:name>
+        <oc:id>3E833F3D-9151-450C-D658-43281F405098</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1D24817C-903B-4F70-FB40-ACFFD3224FD2">
+        <oc:name>AM662:1636</oc:name>
+        <oc:id>1D24817C-903B-4F70-FB40-ACFFD3224FD2</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D6DA01A1-AB22-46DC-DAB0-497271EA170E">
+        <oc:name>AM662:1637</oc:name>
+        <oc:id>D6DA01A1-AB22-46DC-DAB0-497271EA170E</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/86645C2F-51D3-4F25-AB07-99F79A77E3EB">
+        <oc:name>AM662:1638</oc:name>
+        <oc:id>86645C2F-51D3-4F25-AB07-99F79A77E3EB</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F0E31AAD-D68B-4ABD-F031-37D2D0A7AA0F">
+        <oc:name>AM662:1639</oc:name>
+        <oc:id>F0E31AAD-D68B-4ABD-F031-37D2D0A7AA0F</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/753B0D5B-359A-4F94-ACF5-F2D0148111F7">
+        <oc:name>AM662:1640</oc:name>
+        <oc:id>753B0D5B-359A-4F94-ACF5-F2D0148111F7</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/880FDB11-D684-48D8-096B-56756547A25D">
+        <oc:name>AM662:1641</oc:name>
+        <oc:id>880FDB11-D684-48D8-096B-56756547A25D</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/436F211E-69DA-4EAC-95CA-FC4F812DD5EB">
+        <oc:name>AM662:892</oc:name>
+        <oc:id>436F211E-69DA-4EAC-95CA-FC4F812DD5EB</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AAE32E70-675E-4C0E-64D3-DFC53FDBC245">
+        <oc:name>AM662:893</oc:name>
+        <oc:id>AAE32E70-675E-4C0E-64D3-DFC53FDBC245</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/97D2965B-7390-454B-566B-4CC376A2B498">
+        <oc:name>AM662:894</oc:name>
+        <oc:id>97D2965B-7390-454B-566B-4CC376A2B498</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3F36601D-976F-47C7-59EA-1AF7E88824B5">
+        <oc:name>AM662:895</oc:name>
+        <oc:id>3F36601D-976F-47C7-59EA-1AF7E88824B5</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CCFE3274-AC34-42D8-976C-1C49D38AC643">
+        <oc:name>AM662:896</oc:name>
+        <oc:id>CCFE3274-AC34-42D8-976C-1C49D38AC643</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5EBCDE34-3A85-496A-CAE6-B628DE19B2C7">
+        <oc:name>AM662:897</oc:name>
+        <oc:id>5EBCDE34-3A85-496A-CAE6-B628DE19B2C7</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/48B92049-856E-4C81-C4EA-84B7D344C026">
+        <oc:name>AM662:898</oc:name>
+        <oc:id>48B92049-856E-4C81-C4EA-84B7D344C026</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4CEC7DD2-53F6-45DE-3F57-9F24D968B243">
+        <oc:name>AM662:899</oc:name>
+        <oc:id>4CEC7DD2-53F6-45DE-3F57-9F24D968B243</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DC78D254-5130-4771-494A-54914D12A7A9">
+        <oc:name>AM662:900</oc:name>
+        <oc:id>DC78D254-5130-4771-494A-54914D12A7A9</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CB03BBEE-C2DF-4FCD-6256-AE3E8142053A">
+        <oc:name>AM662:901</oc:name>
+        <oc:id>CB03BBEE-C2DF-4FCD-6256-AE3E8142053A</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/422E18A6-C552-41CD-DF0D-111314ABF577">
+        <oc:name>AM662:902</oc:name>
+        <oc:id>422E18A6-C552-41CD-DF0D-111314ABF577</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/078543E3-0B22-4E69-97B8-5C80EC63D714">
+        <oc:name>AM662:1631</oc:name>
+        <oc:id>078543E3-0B22-4E69-97B8-5C80EC63D714</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Mikt’sqaq Angayuk Finds: Square 88 (Square)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-08</dc:date>
+    <dc:subject>Alaska</dc:subject>
+    <dc:subject>Alutiiq</dc:subject>
+    <dc:subject>Kodiak</dc:subject>
+    <dc:subject>Russian colonialism</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:subject>economy</dc:subject>
+    <dc:subject>historical archaeology</dc:subject>
+    <dc:subject>finds catalog</dc:subject>
+    <dc:subject>archaeological collections</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/795A3C09-0907-42B0-5B08-4347910CC6C5">Amy V. Margaris</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/2157254C-0A19-4F4C-382C-F717DCE1C799">Fanny Ballantine-Himberg</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/0D30035A-E164-499D-0D95-C04CDC41F340">Mark Rusk</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/59CBB779-A19F-4274-AAEF-4FA4FA995252">Patrick Saltonstall</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/E261CD36-08A6-48EB-92D5-E02B2C12B591</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/CF6E1364-D6EF-4042-B726-82CFB73F7C9D">Mikt’sqaq Angayuk Finds</oc:project_name>
+    <oc:pub_date>2013-03-08T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Mikt%E2%80%99sqaq+Angayuk+Finds%3A+Square+88+%28Square%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Alaska&amp;rft.subject=Alutiiq&amp;rft.subject=Kodiak&amp;rft.subject=Russian+colonialism&amp;rft.subject=trade&amp;rft.subject=subsistence&amp;rft.subject=economy&amp;rft.subject=historical+archaeology&amp;rft.subject=finds+catalog&amp;rft.subject=archaeological+collections&amp;rft.creator=Amy+V.+Margaris&amp;rft.creator=Fanny+Ballantine-Himberg&amp;rft.creator=Mark+Rusk&amp;rft.creator=Patrick+Saltonstall&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FE261CD36-08A6-48EB-92D5-E02B2C12B591</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>57.72507</oc:geo_lat>
+      <oc:geo_long>-152.448703</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/C76F3BC8-4748-4CF6-AA58-E99014B443A3">
+        <oc:source_name>Mikt’sqaq Angayuk</oc:source_name>
+        <oc:source_id>C76F3BC8-4748-4CF6-AA58-E99014B443A3</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-09T00:39:13-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/09 00:39:13</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1800 CE - 1840 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1800</oc:time_start>
+          <oc:time_finish>1840</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/C76F3BC8-4748-4CF6-AA58-E99014B443A3">
+            <oc:source_name>Mikt’sqaq Angayuk</oc:source_name>
+            <oc:source_id>C76F3BC8-4748-4CF6-AA58-E99014B443A3</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-03-08T10:19:40-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

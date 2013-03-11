@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="38E090F1-8AAD-4728-C8F6-D6FA9C36B1C2" ownedBy="CF6E1364-D6EF-4042-B726-82CFB73F7C9D">
+  <arch:name>
+    <arch:string>AM662:1023</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Objects</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_2_603df08b3</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2188DE33-DB06-4FFD-DB17-7B9DB13A439C</arch:variableID>
+          <arch:valueID>82738451-4FCD-4114-4E61-BFFA77BA7A62</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/07E0BFEA-98C7-47B0-061D-BCF0FE5EF6B1">07E0BFEA-98C7-47B0-061D-BCF0FE5EF6B1</oc:propid>
+          <oc:var_label type="nominal">Object Description</oc:var_label>
+          <oc:show_val>Bead</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="2188DE33-DB06-4FFD-DB17-7B9DB13A439C" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Has type</oc:label>
+              <oc:targetLink localType="property" localID="07E0BFEA-98C7-47B0-061D-BCF0FE5EF6B1" localURI="http://opencontext.org/properties/07E0BFEA-98C7-47B0-061D-BCF0FE5EF6B1" href="http://collection.britishmuseum.org/id/thesauri/x5387">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>bead</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7C94BA18-8A9E-4CC0-0716-EE5302E3115A</arch:variableID>
+          <arch:valueID>59766E0F-5BC9-41CA-0FAD-52D1B34F426C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AA332DD9-3217-4C87-9D9F-69EF3215724B">AA332DD9-3217-4C87-9D9F-69EF3215724B</oc:propid>
+          <oc:var_label type="nominal">Material</oc:var_label>
+          <oc:show_val>Glass</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="7C94BA18-8A9E-4CC0-0716-EE5302E3115A" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P45F.consists_of">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Consists of</oc:label>
+              <oc:targetLink localType="property" localID="AA332DD9-3217-4C87-9D9F-69EF3215724B" localURI="http://opencontext.org/properties/AA332DD9-3217-4C87-9D9F-69EF3215724B" href="http://collection.britishmuseum.org/id/thesauri/x10879">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>glass</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DA77438D-EB80-48B3-F8D3-F8F1A0A16C3A</arch:variableID>
+          <arch:decimal/>
+          <oc:propid href="http://opencontext.org/properties/7701983C-3FDA-4DA3-8734-6DFCF335D84F">7701983C-3FDA-4DA3-8734-6DFCF335D84F</oc:propid>
+          <oc:var_label type="decimal">Weight (g)</oc:var_label>
+          <oc:show_val>&lt; .01</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>16B97786-C577-445E-0D0D-842910B597DE</arch:variableID>
+          <arch:valueID>FF1DFC18-F7A6-4396-C7CF-1E0B860EAD9A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/546B83DB-14A2-4C94-B6DD-B4AD8BBDD5AE">546B83DB-14A2-4C94-B6DD-B4AD8BBDD5AE</oc:propid>
+          <oc:var_label type="nominal">Method Of Manufacture</oc:var_label>
+          <oc:show_val>Wound</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>22FAA887-FDD4-4F80-AFF8-635080A75BBB</arch:variableID>
+          <arch:valueID>A50FF558-2EF6-452B-DFB6-042871E4B920</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C90B7B2B-11E6-4C5F-2264-182CB8B2D308">C90B7B2B-11E6-4C5F-2264-182CB8B2D308</oc:propid>
+          <oc:var_label type="nominal">Color</oc:var_label>
+          <oc:show_val>White</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35E946A1-BE8F-4048-AD50-3D53032A4916</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">2.5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/BAE7845F-11F2-4087-F3E6-82795B1B2A19">BAE7845F-11F2-4087-F3E6-82795B1B2A19</oc:propid>
+          <oc:var_label type="decimal">Diameter (mm)</oc:var_label>
+          <oc:show_val>2.5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E42A7AED-E0F1-41F1-950B-62FFC50AAAB8</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">3.5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/A9BB3C5E-5A98-44E0-5683-D384BC2A7079">A9BB3C5E-5A98-44E0-5683-D384BC2A7079</oc:propid>
+          <oc:var_label type="decimal">Length (mm)</oc:var_label>
+          <oc:show_val>3.5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>49A30685-5BB8-4658-0D3F-99027F05CCDD</arch:variableID>
+          <arch:valueID>F4784337-B6BE-4274-AEE4-70AB3AB3A4E8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3CB828A2-CDDF-454D-0291-285E2CECE963">3CB828A2-CDDF-454D-0291-285E2CECE963</oc:propid>
+          <oc:var_label type="nominal">Level</oc:var_label>
+          <oc:show_val>L1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8162B6B5-5CB8-4E2A-BA7C-FE14EB0915D9</arch:variableID>
+          <arch:valueID>A474A71B-EB6F-429D-D825-94B43669CA4E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2C9A63CB-67F2-46C1-ECA3-AF1E0DA9B93F">2C9A63CB-67F2-46C1-ECA3-AF1E0DA9B93F</oc:propid>
+          <oc:var_label type="calendric">Date</oc:var_label>
+          <oc:show_val>8/12/09</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FB9F37A3-C928-40D9-92E7-C056F7562B8C</arch:variableID>
+          <arch:valueID>F81E2D5A-AF5B-4F5E-8832-9E2DAD95A96B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BF916DA3-06FF-4C85-84EF-5E5C5410D37C">BF916DA3-06FF-4C85-84EF-5E5C5410D37C</oc:propid>
+          <oc:var_label type="nominal">Excavator initials</oc:var_label>
+          <oc:show_val>MAWR</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/6AAC2E1D-CE65-4C47-3EC6-F132315E42D3">
+        <oc:name>Alaska</oc:name>
+        <oc:id>6AAC2E1D-CE65-4C47-3EC6-F132315E42D3</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/C76F3BC8-4748-4CF6-AA58-E99014B443A3">
+        <oc:name>Mikt’sqaq Angayuk</oc:name>
+        <oc:id>C76F3BC8-4748-4CF6-AA58-E99014B443A3</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/ED447F14-2C9E-4685-25E4-87749ED805AA">
+        <oc:name>Square 55</oc:name>
+        <oc:id>ED447F14-2C9E-4685-25E4-87749ED805AA</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Mikt’sqaq Angayuk Finds: AM662:1023 (Objects)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-08</dc:date>
+    <dc:subject>Alaska</dc:subject>
+    <dc:subject>Alutiiq</dc:subject>
+    <dc:subject>Kodiak</dc:subject>
+    <dc:subject>Russian colonialism</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:subject>economy</dc:subject>
+    <dc:subject>historical archaeology</dc:subject>
+    <dc:subject>finds catalog</dc:subject>
+    <dc:subject>archaeological collections</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/795A3C09-0907-42B0-5B08-4347910CC6C5">Amy V. Margaris</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/2157254C-0A19-4F4C-382C-F717DCE1C799">Fanny Ballantine-Himberg</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/0D30035A-E164-499D-0D95-C04CDC41F340">Mark Rusk</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/59CBB779-A19F-4274-AAEF-4FA4FA995252">Patrick Saltonstall</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/38E090F1-8AAD-4728-C8F6-D6FA9C36B1C2</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/CF6E1364-D6EF-4042-B726-82CFB73F7C9D">Mikt’sqaq Angayuk Finds</oc:project_name>
+    <oc:pub_date>2013-03-08T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Mikt%E2%80%99sqaq+Angayuk+Finds%3A+AM662%3A1023+%28Objects%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Alaska&amp;rft.subject=Alutiiq&amp;rft.subject=Kodiak&amp;rft.subject=Russian+colonialism&amp;rft.subject=trade&amp;rft.subject=subsistence&amp;rft.subject=economy&amp;rft.subject=historical+archaeology&amp;rft.subject=finds+catalog&amp;rft.subject=archaeological+collections&amp;rft.creator=Amy+V.+Margaris&amp;rft.creator=Fanny+Ballantine-Himberg&amp;rft.creator=Mark+Rusk&amp;rft.creator=Patrick+Saltonstall&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F38E090F1-8AAD-4728-C8F6-D6FA9C36B1C2</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>57.72507</oc:geo_lat>
+      <oc:geo_long>-152.448703</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/C76F3BC8-4748-4CF6-AA58-E99014B443A3">
+        <oc:source_name>Mikt’sqaq Angayuk</oc:source_name>
+        <oc:source_id>C76F3BC8-4748-4CF6-AA58-E99014B443A3</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-09T00:24:56-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/09 00:24:56</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1800 CE - 1840 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1800</oc:time_start>
+          <oc:time_finish>1840</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/C76F3BC8-4748-4CF6-AA58-E99014B443A3">
+            <oc:source_name>Mikt’sqaq Angayuk</oc:source_name>
+            <oc:source_id>C76F3BC8-4748-4CF6-AA58-E99014B443A3</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-03-08T10:19:40-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:resource xmlns:arch="http://ochre.lib.uchicago.edu/schema/Resource/Resource.xsd" xmlns:oc="http://opencontext.org/schema/resource_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="6DEC815E-AA28-4570-5874-316E72B8ECAB" ownedBy="CF6E1364-D6EF-4042-B726-82CFB73F7C9D" type="image">
+  <arch:name>
+    <arch:string>AM662.449.jpg</arch:string>
+  </arch:name>
+  <arch:properties>
+    <arch:property>
+      <arch:variableID>9FB917F2-3E8C-42D7-2ACF-E6AB43E339F9</arch:variableID>
+      <arch:valueID>0FDF9426-F512-4208-A40D-D7A8D2CF4A57</arch:valueID>
+      <oc:propid href="http://opencontext.org/properties/AB5D0EA3-F624-4E6E-0CEA-8731C885FC90">AB5D0EA3-F624-4E6E-0CEA-8731C885FC90</oc:propid>
+      <oc:var_label type="nominal">Image Description</oc:var_label>
+      <oc:show_val>Iron Spike</oc:show_val>
+    </arch:property>
+    <arch:property>
+      <arch:variableID>B8E4E933-199E-42D7-1C52-DD6E7FEA4EC5</arch:variableID>
+      <arch:valueID>A4F8BA94-0439-4748-5CDA-9A18589EDB60</arch:valueID>
+      <oc:propid href="http://opencontext.org/properties/E6B3A409-B5DB-46F4-8540-F36186949E4C">E6B3A409-B5DB-46F4-8540-F36186949E4C</oc:propid>
+      <oc:var_label type="alphanumeric">Image Note</oc:var_label>
+      <oc:show_val type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
+            <p>The Alutiiq Museum seeks to encourage communication and dialogue with others interested in reusing this content. Although the content carries a very open Creative Commons copyright license, the Museum asks others to reuse this content with courtesy and respect. Please help build community ties by directly <a href="http://alutiiqmuseum.org/">contacting the Museum</a> about your use of the images. You may also contact the Alutiiq Museum to obtain and use higher-resolution images.</p>
+          </div>
+        </div>
+      </oc:show_val>
+    </arch:property>
+  </arch:properties>
+  <arch:links>
+    <arch:docID type="person" info="Photographed by">795A3C09-0907-42B0-5B08-4347910CC6C5</arch:docID>
+    <arch:docID type="spatialUnit" info="link">8A89598D-9202-4D06-DC97-45D054581486</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/8A89598D-9202-4D06-DC97-45D054581486">
+        <oc:name>AM662:449</oc:name>
+        <oc:id>8A89598D-9202-4D06-DC97-45D054581486</oc:id>
+        <oc:relation>link</oc:relation>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+              <oc:name>United States</oc:name>
+              <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+              <oc:level>4</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/6AAC2E1D-CE65-4C47-3EC6-F132315E42D3">
+              <oc:name>Alaska</oc:name>
+              <oc:id>6AAC2E1D-CE65-4C47-3EC6-F132315E42D3</oc:id>
+              <oc:level>3</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/C76F3BC8-4748-4CF6-AA58-E99014B443A3">
+              <oc:name>Mikt’sqaq Angayuk</oc:name>
+              <oc:id>C76F3BC8-4748-4CF6-AA58-E99014B443A3</oc:id>
+              <oc:level>2</oc:level>
+              <oc:item_class>
+                <oc:name>Site</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/979E5DD5-73AD-4D95-38E4-6D1245ED6951">
+              <oc:name>Square 18</oc:name>
+              <oc:id>979E5DD5-73AD-4D95-38E4-6D1245ED6951</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Square</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/795A3C09-0907-42B0-5B08-4347910CC6C5" cite="contributor">
+        <oc:name>Amy V. Margaris</oc:name>
+        <oc:id>795A3C09-0907-42B0-5B08-4347910CC6C5</oc:id>
+        <oc:relation>Photographed by</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:content>
+    <arch:externalFileInfo>
+      <arch:fileFormat>image/jpeg</arch:fileFormat>
+      <oc:FileInfo>
+        <oc:ImageSize>716119</oc:ImageSize>
+        <oc:FileSize ReadSize="173.09 KB">177249</oc:FileSize>
+        <oc:FileName>AM662.449.jpg</oc:FileName>
+      </oc:FileInfo>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/miktsqaq-angayuk/full/AM662.449.JPG</arch:resourceURI>
+      <arch:previewURI>http://artiraq.org/static/opencontext/miktsqaq-angayuk/preview/AM662.449.JPG</arch:previewURI>
+      <arch:thumbnailURI>http://artiraq.org/static/opencontext/miktsqaq-angayuk/thumbs/AM662.449.JPG</arch:thumbnailURI>
+    </arch:externalFileInfo>
+  </arch:content>
+  <oc:metadata>
+    <dc:title>Mikt’sqaq Angayuk Finds: AM662.449.jpg</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-08</dc:date>
+    <dc:subject>Alaska</dc:subject>
+    <dc:subject>Alutiiq</dc:subject>
+    <dc:subject>Kodiak</dc:subject>
+    <dc:subject>Russian colonialism</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:subject>economy</dc:subject>
+    <dc:subject>historical archaeology</dc:subject>
+    <dc:subject>finds catalog</dc:subject>
+    <dc:subject>archaeological collections</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/795A3C09-0907-42B0-5B08-4347910CC6C5">Amy V. Margaris</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/795A3C09-0907-42B0-5B08-4347910CC6C5">Amy V. Margaris</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/2157254C-0A19-4F4C-382C-F717DCE1C799">Fanny Ballantine-Himberg</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/0D30035A-E164-499D-0D95-C04CDC41F340">Mark Rusk</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/59CBB779-A19F-4274-AAEF-4FA4FA995252">Patrick Saltonstall</dc:creator>
+    <dc:identifier>http://opencontext.org/media/6DEC815E-AA28-4570-5874-316E72B8ECAB</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/CF6E1364-D6EF-4042-B726-82CFB73F7C9D">Mikt’sqaq Angayuk Finds</oc:project_name>
+    <oc:pub_date>2013-03-08T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Mikt%E2%80%99sqaq+Angayuk+Finds%3A+AM662.449.jpg&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Alaska&amp;rft.subject=Alutiiq&amp;rft.subject=Kodiak&amp;rft.subject=Russian+colonialism&amp;rft.subject=trade&amp;rft.subject=subsistence&amp;rft.subject=economy&amp;rft.subject=historical+archaeology&amp;rft.subject=finds+catalog&amp;rft.subject=archaeological+collections&amp;rft.contributor=Amy+V.+Margaris&amp;rft.creator=Amy+V.+Margaris&amp;rft.creator=Fanny+Ballantine-Himberg&amp;rft.creator=Mark+Rusk&amp;rft.creator=Patrick+Saltonstall&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fmedia%2F6DEC815E-AA28-4570-5874-316E72B8ECAB</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>57.72507</oc:geo_lat>
+      <oc:geo_long>-152.448703</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/C76F3BC8-4748-4CF6-AA58-E99014B443A3">
+        <oc:source_name>Mikt’sqaq Angayuk</oc:source_name>
+        <oc:source_id>C76F3BC8-4748-4CF6-AA58-E99014B443A3</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-09T03:30:25-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/09 03:30:25</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1800 CE - 1840 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1800</oc:time_start>
+          <oc:time_finish>1840</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/C76F3BC8-4748-4CF6-AA58-E99014B443A3">
+            <oc:source_name>Mikt’sqaq Angayuk</oc:source_name>
+            <oc:source_id>C76F3BC8-4748-4CF6-AA58-E99014B443A3</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2013-03-08T10:19:40-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:resource>
